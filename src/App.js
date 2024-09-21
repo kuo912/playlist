@@ -14,9 +14,16 @@ import Video from './pages/Video'
 import Search from './pages/Search'
 import Not from './pages/Not'
 
+import Header from './assets/components/section/Header'
+import Main from './assets/components/section/Main'
+import Footer from './assets/components/section/Footer'
+
 const App = () => {
   return (
     <BrowserRouter>
+      <Header />
+      <Main />
+      <Footer />
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/today' element={<Today />} />
