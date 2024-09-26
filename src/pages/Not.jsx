@@ -3,7 +3,9 @@ import Main from '../assets/components/section/Main'
 
 const Not = () => {
   return (
-    <Main>
+    <Main
+        title="Not"
+    >
       Not
     </Main>
   )

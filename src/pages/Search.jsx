@@ -3,7 +3,10 @@ import Main from '../assets/components/section/Main'
 
 const Search = () => {
   return (
-    <Main>
+    <Main
+      title="Search"
+      description="검색페이지입니다."
+    >
       Search
     </Main>
   )
