@@ -1,10 +1,11 @@
 import React from 'react'
+import Main from '../assets/components/section/Main'
 
 const Musicvideo = () => {
   return (
-    <div>
-      
-    </div>
+    <Main>
+      Musicvideo
+    </Main>
   )
 }
 

@@ -1,10 +1,11 @@
 import React from 'react'
+import Main from '../assets/components/section/Main'
 
 const Home = () => {
   return (
-    <div>
-      
-    </div>
+    <Main>
+      Home
+    </Main>
   )
 }
 

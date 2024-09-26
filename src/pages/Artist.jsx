@@ -1,10 +1,11 @@
 import React from 'react'
+import Main from '../assets/components/section/Main'
 
 const Artist = () => {
   return (
-    <div>
-      
-    </div>
+    <Main>
+      Artist
+    </Main>
   )
 }
 

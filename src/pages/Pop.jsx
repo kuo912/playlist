@@ -1,10 +1,11 @@
 import React from 'react'
+import Main from '../assets/components/section/Main'
 
 const Pop = () => {
   return (
-    <div>
-      
-    </div>
+    <Main>
+      Pop
+    </Main>
   )
 }
 

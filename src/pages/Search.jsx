@@ -1,10 +1,11 @@
 import React from 'react'
+import Main from '../assets/components/section/Main'
 
 const Search = () => {
   return (
-    <div>
-      
-    </div>
+    <Main>
+      Search
+    </Main>
   )
 }
 

@@ -1,7 +1,7 @@
 import { TbBrandYoutubeFilled } from "react-icons/tb";
 import { TbClick } from "react-icons/tb";
 import { TbClover } from "react-icons/tb";
-import { TbCopyPlusFilled } from "react-icons/tb";
+import { BiBookHeart } from "react-icons/bi";
 import { TbHeadphones } from "react-icons/tb";
 import { TbHeadphonesFilled } from "react-icons/tb";
 import { PiPersonArmsSpreadFill } from "react-icons/pi";
@@ -30,7 +30,7 @@ export const headerMenus = [
     },
     {
         title: "추천 플레이리스트",
-        icon: <TbCopyPlusFilled />,
+        icon: <BiBookHeart />,
         src: "/playlist"
     },
     {
