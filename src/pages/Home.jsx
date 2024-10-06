@@ -1,12 +1,12 @@
 import React from 'react'
 import Main from '../assets/components/section/Main'
-import Today from '../assets/components/contetns/Today'
-import Artist from '../assets/components/contetns/Artist'
-import Playlist from '../assets/components/contetns/Playlist'
-import Latest from '../assets/components/contetns/Latest'
-import Musicvideo from '../assets/components/contetns/Musicvideo'
-import Pop from '../assets/components/contetns/Pop'
-import Kpop from '../assets/components/contetns/Kpop'
+import Today from '../assets/components/contents/Today'
+import Artist from '../assets/components/contents/Artist'
+import Playlist from '../assets/components/contents/Playlist'
+import Latest from '../assets/components/contents/Latest'
+import Musicvideo from '../assets/components/contents/Musicvideo'
+import Pop from '../assets/components/contents/Pop'
+import Kpop from '../assets/components/contents/Kpop'
 
 const Home = () => {
   return (
