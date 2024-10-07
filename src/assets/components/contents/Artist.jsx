@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 const Artist = () => {
   return (
     <section id='artist'>
-      <h2>😪 추천 아티스트를 소개합니다.</h2>
+      <h2>😎 추천 아티스트를 소개합니다.</h2>
       <div className="artist__inner overflow">
         {artistText.map((artist, key) => (
           <div className="artist" key={key}>

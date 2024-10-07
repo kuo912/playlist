@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 
 const Today = () => {
   return (
-    <div id='today'>
+    <section id='today'>
       <div className="today__inner">
         <div className="today__thumb play__icon">
           <Link to={todayText[0].page}>
@@ -31,7 +31,7 @@ const Today = () => {
           </div>
         </div>
       </div>
-    </div>
+    </section>
   )
 }
 
